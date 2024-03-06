@@ -1,0 +1,7 @@
+C:\Users\abdo1\Desktop\Current_track\C#\ContactBook\obj\Debug\ContactBook.csproj.AssemblyReference.cache
+C:\Users\abdo1\Desktop\Current_track\C#\ContactBook\obj\Debug\ContactBook.csproj.CoreCompileInputs.cache
+C:\Users\abdo1\Desktop\Current_track\C#\ContactBook\bin\Debug\ContactBook.exe.config
+C:\Users\abdo1\Desktop\Current_track\C#\ContactBook\bin\Debug\ContactBook.exe
+C:\Users\abdo1\Desktop\Current_track\C#\ContactBook\bin\Debug\ContactBook.pdb
+C:\Users\abdo1\Desktop\Current_track\C#\ContactBook\obj\Debug\ContactBook.exe
+C:\Users\abdo1\Desktop\Current_track\C#\ContactBook\obj\Debug\ContactBook.pdb
